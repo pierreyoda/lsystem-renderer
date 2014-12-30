@@ -10,6 +10,10 @@
 *.dll
 *.dylib
 
+# C++ builds
+/build
+/build-unittest
+
 # Qt-es
 
 /.qmake.cache
@@ -30,3 +34,10 @@ Makefile*
 #QtCtreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
+
+# others
+*.zip
+
+# doxygen builds
+/doc/html
+/doc/latex
