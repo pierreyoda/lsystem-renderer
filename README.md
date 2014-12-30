@@ -1,4 +1,6 @@
 lsystem-renderer
 ================
 
-Visualize and edit L-Systems with Qt 5
+Visualize and edit Lindenmayer-Systems with Qt 5.
+
+The Qt Creator projects are included.
